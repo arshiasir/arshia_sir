@@ -5,4 +5,18 @@ A coding virtuoso, juggling Flutter and Python with finesse, orchestrating a sym
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshia_sir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arshia_sir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arshia_sir) [![Telegram](https://img.shields.io/badge/Telegram%20communication-arshia_sir-orange%20.svg?logo=telegram&logoColor=blu)](https://t.me/arshia_sir)
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) <a><img src="https://img.icons8.com/color/flutter" alt="flutter"/></a>
+
+# 💻 Tech Stack:
+## :link: Links
+
+<p align="center">
+  
+  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  
+</p>
