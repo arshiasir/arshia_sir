@@ -17,6 +17,6 @@ A coding virtuoso, juggling Flutter and Python with finesse, orchestrating a sym
   <a href="https://www.facebook.com/arshia_sir"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/arshia_sir/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://twitter.com/arshia_sir"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://stackoverflow.com/users/18932046/arshia-sir"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 
 </p>
