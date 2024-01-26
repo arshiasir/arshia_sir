@@ -20,4 +20,3 @@ A coding virtuoso, juggling Flutter and Python with finesse, orchestrating a sym
   <a href="https://stackoverflow.com/users/18932046/arshia-sir"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 
 </p>
-<a href="https://data.typeracer.com/pit/profile?user=arshia_sir&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=arshia_sir" border="0" alt="TypeRacer.com scorecard for user arshia_sir"/></a>
