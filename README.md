@@ -1,4 +1,6 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=19&pause=1000&color=09F7E0&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=HELLO+FINDER+!!!)](https://git.io/typing-svg)
+
+
 A coding virtuoso, juggling Flutter and Python with finesse, orchestrating a symphony of diverse apps and automagical wonders! 🎼🎹🎶<br><br>Embarking on a journey through the enchanted realms of Flutter and Python, crafting spells of code for captivating mobile and web experiences! 🧙‍♂️✨📱<br><br>An ardent code wizard, conjuring creative charms with Flutter and Python, harnessing cutting-edge enchantments to empower projects with efficiency and brilliance! 🧙‍♀️🔮💻<br><br>Wandering the tech wonderland, seeking to level up my skills in the realm of technology and weaving tales of coding adventure to share with fellow wanderers! 🌎🚀📚
 
 
